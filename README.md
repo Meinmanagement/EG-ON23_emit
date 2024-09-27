@@ -1,14 +1,6 @@
-# emit-test
+# Wie funktioniert $emit()?
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Dieses Projekt wurde im Rahmen eines Hochschulprojekts an der DHBW Mosbach erstellt und hat den Zweck, die Funktionsweise der $emit()-Methode in Vue.js vorzuführen. Das Ziel ist es, Studierenden zu veranschaulichen, wie Eltern-Kind-Kommunikation in Vue-Komponenten durch den Einsatz von $emit() funktioniert.
 
 ## Project Setup
 
